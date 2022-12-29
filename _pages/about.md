@@ -7,16 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Hello,
+======
 I'm Fang, a 3rd-year computer science Ph.D. student at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/). I have bachelor's degrees of computer science and applied mathematics.
 
-My research focuses on understanding “nutritional dark matter” using machine learning methods.
+My research
+------
+I focus on understanding the “nutritional dark matter”-the great number of chemicals commonly found in foods yet with unknown health effects-using machine learning methods. I utilize deep learning, natural language processing, and explainable AI techniques.
 
-I am also interested in natural language processing, knowledge graph, and explainable AI.
-
-My hobby is mixed martial arts, in which I learn techniques from boxing, kickboxing, wrestling, and Brazilian jujitsu.
-
-I speak both Mandarin and Japanese natively!
+More about me
+------
+My hobby is mixed martial arts, in which I learn techniques from boxing, kickboxing, wrestling, and Brazilian jujitsu. I speak both Mandarin and Japanese natively!
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
