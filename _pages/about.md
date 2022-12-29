@@ -3,20 +3,18 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm Fang, a 3rd-year computer science Ph.D. student at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/). I majored in computer science and applied mathematics for my bachelor's degrees.
+I'm Fang, a 3rd-year computer science Ph.D. student at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/). I have bachelor's degrees of computer science and applied mathematics.
 
-My research focuses on understanding “nutritional dark matter” using artificial intelligence techniques. These techniques include machine learning, natural language processing, generative models, and so on.
+My research focuses on understanding “nutritional dark matter” using machine learning methods.
 
-I am also passionate about the interpretability of machine learning, and I have contributed [a chapter to Christoph’s fantastic book](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html)!
+I am also interested in natural language processing, knowledge graph, and explainable AI.
 
 My hobby is mixed martial arts, in which I learn techniques from boxing, kickboxing, wrestling, and Brazilian jujitsu.
-
-<!-- I currently practice the warrior diet, in which I only eat one meal daily while maintaining enough calorie and nutrition intake. -->
 
 I speak both Mandarin and Japanese natively!
 
