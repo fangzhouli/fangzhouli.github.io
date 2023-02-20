@@ -4,19 +4,19 @@ main:
   #   url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
+  #   url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
   - title: "CV"
     url: https://fangzhouli.github.io/files/cv.pdf
-    
+
   # - title: "Guide"
   #   url: /markdown/
