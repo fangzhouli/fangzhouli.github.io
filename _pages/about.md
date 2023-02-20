@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Fang"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Hello,
 ======
-I'm Fang, a 3rd-year computer science Ph.D. student at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/). I have bachelor's degrees of computer science and applied mathematics.
+I'm Fangzhou (Fang) Li, a 3rd-year computer science Ph.D. student at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/). I have bachelor's degrees of computer science and applied mathematics.
 
 My research
 ------
