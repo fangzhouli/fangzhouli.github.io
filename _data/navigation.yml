@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: https://fangzhouli.github.io/files/cv.pdf
+  # - title: "CV"
+  #   url: https://fangzhouli.github.io/files/cv.pdf
 
   # - title: "Guide"
   #   url: /markdown/
