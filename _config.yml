@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Fangzhou Li"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fangzhou Li"
   avatar           : "profile.jpg"
-  bio              : "I love AI, dieting, and mixed martial arts!"
+  bio              : "AI, food, mixed martial arts!"
   location         : "Davis, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
