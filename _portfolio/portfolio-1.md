@@ -1,5 +1,5 @@
 ---
-title: "Presented in AIAFS/AAAI-2302/14/2023"
+title: "Presented in AIAFS/AAAI-23"
 excerpt: "Date: 02/14/2023<img src='/images/2023_0214_aiafs_presentation.jpg'>"
 collection: Academic
 ---
