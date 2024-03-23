@@ -1,6 +1,6 @@
 ---
 title: "03/22/2024: BJJ Seminar"
-excerpt: "Trained with Prof. Renato \"Charuto\" Verissimo (Right)<img src='/images/20240322_bjj.jpg'>"
+excerpt: "Trained with the former UFC fighter Prof. Renato \"Charuto\" Verissimo (Right)<img src='/images/20240322_bjj_medium.jpg'>"
 collection: Personal
 ---
 
