@@ -1,6 +1,6 @@
 ---
 title: "02/14/2023: AIAFS/AAAI-2023"
-excerpt: "Presented my work during the workshop.<img src='/images/20230214_aiafs.jpg'>"
+excerpt: "Presented my work during the workshop.<br/><img src='/images/20230214_aiafs.jpg'>"
 collection: Academic
 ---
 
