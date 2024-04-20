@@ -4,6 +4,6 @@ excerpt: "Presented my work during the workshop.<br/><img src='/images/20230214_
 collection: Academic
 ---
 
-Presented my work on *Semi-Automated Construction of Food Composition Knowledge Base* in the 2nd AAAI Workshop on AI for Agrigulture and Food Systems (AIAFS).
+Presented my work on *Semi-Automated Construction of Food Composition Knowledge Base* at the 2nd AAAI Workshop on AI for Agrigulture and Food Systems (AIAFS).
 
 ![image](/images/20230214_aiafs.jpg)
