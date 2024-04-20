@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Fangzhou (Fang) Li! I am a fourth-year Ph.D. candidate in computer science at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/).
+Hello! I am a fourth-year Ph.D. candidate in computer science at the University of California, Davis, and a graduate student researcher at [Tagkopoulos Lab](http://tagkopouloslab.ucdavis.edu/) and [AI Institute for Next Generation Food Systems](https://aifs.ucdavis.edu/).
 
 ## My Research
 I focus on applying AI techniques to biological data, synthesizing knowledge useful for optimizing human health. I specialze in machine/deep learning, natural language processing, and knowledge graphs. My current projects include food knowledge graph construction, data-driven precise nutrition, and drug development acceleration.
